@@ -7,7 +7,7 @@ $(document).ready(function(){
   });
 
   // loader
-  $(".myInstance").Circlebar()
+  $(".myInstance").Circlebar
 
 
 });
